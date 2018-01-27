@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Robot 2017/Team5952Steamwork/src"/>
+	<classpathentry kind="src" path="Robot 2017/Vision System 5952/src/main/java"/>
+	<classpathentry kind="src" path="Robot 2017/Vision System Client 5952/src/main/java"/>
+	<classpathentry kind="src" path="Robot 2018 - TTT/src"/>
+	<classpathentry kind="lib" path="Robot 2017/Team5952Steamwork/dist/FRCUserProgram.jar"/>
+	<classpathentry kind="lib" path="Robot 2017/Team5952Steamwork/lib/niVisionWPI.jar"/>
+	<classpathentry kind="lib" path="Robot 2017/Team5952Steamwork/lib/TalonSRXLibJava.jar"/>
+	<classpathentry kind="lib" path="Robot 2017/Vision System 5952/.m2/repository/edu/wpi/cscore/java/cscore/1.0.1/cscore-1.0.1-arm-raspbian.jar"/>
+	<classpathentry kind="lib" path="Robot 2017/Vision System 5952/.m2/repository/edu/wpi/cscore/java/cscore/1.0.1/cscore-1.0.1-windows2015.jar"/>
+	<classpathentry kind="lib" path="Robot 2017/Vision System 5952/.m2/repository/edu/wpi/cscore/java/cscore/1.0.1/cscore-1.0.1.jar"/>
+	<classpathentry kind="lib" path="Robot 2017/Vision System 5952/.m2/repository/edu/wpi/first/wpilib/networktables/java/NetworkTables/3.1.6/NetworkTables-3.1.6-arm-raspbian.jar"/>
+	<classpathentry kind="lib" path="Robot 2017/Vision System 5952/.m2/repository/edu/wpi/first/wpilib/networktables/java/NetworkTables/3.1.6/NetworkTables-3.1.6-windows2015.jar"/>
+	<classpathentry kind="lib" path="Robot 2017/Vision System 5952/.m2/repository/edu/wpi/first/wpilib/networktables/java/NetworkTables/3.1.6/NetworkTables-3.1.6.jar"/>
+	<classpathentry kind="lib" path="Robot 2017/Vision System 5952/.m2/repository/org/opencv/opencv-java/3.1.0/opencv-java-3.1.0.jar"/>
+	<classpathentry kind="lib" path="Robot 2017/Vision System 5952/.m2/repository/org/opencv/opencv-jni/3.1.0/opencv-jni-3.1.0-linux-arm-raspbian.jar"/>
+	<classpathentry kind="lib" path="Robot 2017/Vision System 5952/.m2/repository/org/opencv/opencv-jni/3.1.0/opencv-jni-3.1.0-windows-x86_64_2015.jar"/>
+	<classpathentry kind="lib" path="Robot 2017/Vision System 5952/.m2/repository/org/opencv/opencv-jni/3.1.0/opencv-jni-3.1.0-windows-x86.jar"/>
+	<classpathentry kind="lib" path="Robot 2017/Vision System 5952/.m2/repository/org/opencv/opencv-jni/3.1.0/opencv-jni-3.1.0.jar"/>
+	<classpathentry kind="lib" path="Robot 2017/Vision System 5952/build/libs/CameraVision-all.jar"/>
+	<classpathentry kind="lib" path="Robot 2017/Vision System 5952/build/libs/CameraVision.jar"/>
+	<classpathentry kind="lib" path="Robot 2017/Vision System 5952/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="Robot 2017/Vision System 5952/lib/RXTXcomm.jar"/>
+	<classpathentry kind="lib" path="Robot 2017/Vision System 5952/libRaspian/cscore-1.0.1-arm-raspbian.jar"/>
+	<classpathentry kind="lib" path="Robot 2017/Vision System 5952/libRaspian/NetworkTables-3.1.6-arm-raspbian.jar"/>
+	<classpathentry kind="lib" path="Robot 2017/Vision System 5952/libRaspian/opencv-java-3.1.0.jar"/>
+	<classpathentry kind="lib" path="Robot 2017/Vision System 5952/libRaspian/opencv-jni-3.1.0-linux-arm-raspbian.jar"/>
+	<classpathentry kind="lib" path="Robot 2017/Vision System 5952/output/CameraVision-all.jar"/>
+	<classpathentry kind="lib" path="Robot 2017/Vision System 5952/output/RXTXcomm.jar"/>
+	<classpathentry kind="lib" path="Robot 2017/Vision System Client 5952/.m2/repository/edu/wpi/cscore/java/cscore/1.0.1/cscore-1.0.1-arm-raspbian.jar"/>
+	<classpathentry kind="lib" path="Robot 2017/Vision System Client 5952/.m2/repository/edu/wpi/cscore/java/cscore/1.0.1/cscore-1.0.1.jar"/>
+	<classpathentry kind="lib" path="Robot 2017/Vision System Client 5952/.m2/repository/edu/wpi/first/wpilib/networktables/java/NetworkTables/3.1.6/NetworkTables-3.1.6-arm-raspbian.jar"/>
+	<classpathentry kind="lib" path="Robot 2017/Vision System Client 5952/.m2/repository/edu/wpi/first/wpilib/networktables/java/NetworkTables/3.1.6/NetworkTables-3.1.6.jar"/>
+	<classpathentry kind="lib" path="Robot 2017/Vision System Client 5952/.m2/repository/org/opencv/opencv-java/3.1.0/opencv-java-3.1.0.jar"/>
+	<classpathentry kind="lib" path="Robot 2017/Vision System Client 5952/.m2/repository/org/opencv/opencv-jni/3.1.0/opencv-jni-3.1.0-linux-arm-raspbian.jar"/>
+	<classpathentry kind="lib" path="Robot 2017/Vision System Client 5952/.m2/repository/org/opencv/opencv-jni/3.1.0/opencv-jni-3.1.0.jar"/>
+	<classpathentry kind="lib" path="Robot 2017/Vision System Client 5952/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="Robot 2017/Vision System Client 5952/lib/RXTXcomm.jar"/>
+	<classpathentry kind="lib" path="Robot 2017/Vision System Client 5952/libRaspian/cscore-1.0.1-arm-raspbian.jar"/>
+	<classpathentry kind="lib" path="Robot 2017/Vision System Client 5952/libRaspian/NetworkTables-3.1.6-arm-raspbian.jar"/>
+	<classpathentry kind="lib" path="Robot 2017/Vision System Client 5952/libRaspian/opencv-java-3.1.0.jar"/>
+	<classpathentry kind="lib" path="Robot 2017/Vision System Client 5952/libRaspian/opencv-jni-3.1.0-linux-arm-raspbian.jar"/>
+	<classpathentry kind="lib" path="Robot 2017/Vision System Client 5952/output/CameraVision-all.jar"/>
+	<classpathentry kind="lib" path="Robot 2017/Vision System Client 5952/output/RXTXcomm.jar"/>
+	<classpathentry kind="output" path="Robot 2017/Vision System 5952/build/classes/main"/>
+</classpath>
